@@ -1,0 +1,1 @@
+This project reads gift card info from certain gmail labels and correct certain records in google sheets.
