@@ -1,0 +1,11 @@
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\bin\Debug\netcoreapp2.0\GcExtractor.deps.json
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\bin\Debug\netcoreapp2.0\GcExtractor.runtimeconfig.json
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\bin\Debug\netcoreapp2.0\GcExtractor.runtimeconfig.dev.json
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\bin\Debug\netcoreapp2.0\GcExtractor.dll
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\obj\Debug\netcoreapp2.0\GcExtractor.csproj.CoreCompileInputs.cache
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\obj\Debug\netcoreapp2.0\GcExtractor.AssemblyInfoInputs.cache
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\obj\Debug\netcoreapp2.0\GcExtractor.AssemblyInfo.cs
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\bin\Debug\netcoreapp2.0\GcExtractor.pdb
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\obj\Debug\netcoreapp2.0\GcExtractor.dll
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\obj\Debug\netcoreapp2.0\GcExtractor.pdb
+C:\Users\wxwDev\source\repos\GcExtractor\GcExtractor\bin\Debug\netcoreapp2.0\client_secret.json
